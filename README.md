@@ -1,4 +1,3 @@
-# SpAIce b.io
 
 ![workflow](ESAHackathon_GraphicalAbstract_v3.jpg)
 
